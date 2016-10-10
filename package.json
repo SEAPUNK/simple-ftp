@@ -1,0 +1,18 @@
+{
+  "name": "okftp",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Ivan K <ivan@sq10.net>",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "standard": "^8.3.0"
+  },
+  "engines": {
+    "node": ">=4"
+  }
+}
