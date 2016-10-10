@@ -8,6 +8,7 @@
   "author": "Ivan K <ivan@sq10.net>",
   "license": "MIT",
   "dependencies": {
+    "mini-copromise": "^3.0.1"
   },
   "devDependencies": {
     "standard": "^8.3.0"
